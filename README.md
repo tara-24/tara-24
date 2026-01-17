@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Kanishka Singh
 
-<!--
-**tara-24/tara-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Class 11 student (PCM)  
+💻 Learning Computer Science & Python  
+🚀 Aspiring Computer Science student  
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- Interested in programming and problem solving
+- Currently learning Python
+- Exploring GitHub and open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+- Python (Beginner)
+- Basic programming concepts
+- GitHub basics
+
+## 🔹 Projects
+- Student Result Management System
+
+## 🔹 Goals
+- Build strong CS fundamentals
+- Create more coding projects
+- Prepare for CS programs at top universities
+
+📫 GitHub: https://github.com/tara-24
